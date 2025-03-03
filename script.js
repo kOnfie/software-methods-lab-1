@@ -1,3 +1,4 @@
+// Моделювання
 class Modeling {
   constructor() {
     this.graph = d3.select("#graph");
